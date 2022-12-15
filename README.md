@@ -1,5 +1,5 @@
 # Feedbacked_temp_control_AVR_PCB_out
-## Implementing feedbacked temperature control using Atmega16 microcontroller - including final PCB desing with Altium Designera - a ready to use project
+## Feedbacked temperature control using Atmega16 microcontroller (including final PCB desing with Altium Designera) - a ready to use project
 In this project we are going to program an Atmega16 microcontroller that uses LM35 sensor to watch the temperature and (or any other sensors) to control the Motor speed regarding the temp. The motor that has been mounted by L298 driver. The system's setting (including upper/lower temp and relative margins) is accessible by the designed menu, which can be controlled via the keypad signs (*/+-=). 
 
 This program has been tested and applied to a real system. The code got written in CodeVisionAVR compiler and then uploaded to Atmega16 using USB programmer and "progisp" application. All the relative source codes, and also the simulation files are uploaded in the directory. 
