@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=PB3 Pin=IC2-6
+Removed Pin From Net: NetName=PC1 Pin=U1-20
+Removed Pin From Net: NetName=PB1 Pin=U1-41
+Change Component Designator: OldDesignator=LCDPORT4*16 NewDesignator=LCDPORT1*16
+Added Pin To Net: NetName=PB2 Pin=IC2-6
+Added Room: Name=Sheet1
